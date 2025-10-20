@@ -6,7 +6,7 @@
 </p>
 
 ### 配置链接
-> **稳定版 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Conf<br>
+> **稳定版 :** https://github.com/Doldrums2025/Surge/tree/Master/Conf<br>
 
 ### 模块链接
 > **稳定版 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module<br>
