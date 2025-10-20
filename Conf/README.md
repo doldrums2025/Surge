@@ -23,7 +23,7 @@ Surge最低支持版本 :<br>
 >**macOS 版 5.8.1（2929） 或更新版本**<br>
 ### 2. 配置文件链接
 **开发者推荐最小配置**<br>
-> **Developer :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Developer.conf<br>
+> **Developer :** https://raw.githubusercontent.com/Doldrums2025/Surge/Master/Conf/Spec/Surge-Developer.conf<br>
 
 **适合 Surge 5 卡片视图**<br>
 > **完整版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-EN.conf<br>
